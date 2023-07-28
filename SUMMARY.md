@@ -4,8 +4,8 @@
 
 ## 数组/字符串
 
-* [数组](shu-zu-zi-fu-chuan/array/README.md)
-  * [合并两个有序数组](shu-zu-zi-fu-chuan/array/he-bing-liang-ge-you-xu-shu-zu.md)
+* [数组](array-string/array/README.md)
+  * [合并两个有序数组](array-string/array/he-bing-liang-ge-you-xu-shu-zu.md)
 * [字符串](array-string/string/README.md)
 
 ## 双指针
