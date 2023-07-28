@@ -39,10 +39,6 @@
 
 * [树](tree/README.md)
 
-## 二叉搜索树
-
-* [二叉搜索树](binary-search/README.md)
-
 ## 图
 
 * [图](graph/README.md)
