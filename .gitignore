@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+.idea
+.DS_Store
+sync.sh
+.vscode
+
