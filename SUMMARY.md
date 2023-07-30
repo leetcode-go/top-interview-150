@@ -5,7 +5,8 @@
 ## 数组/字符串
 
 * [数组](array-string/array/README.md)
-  * [合并两个有序数组](array-string/array/he-bing-liang-ge-you-xu-shu-zu.md)
+  * [合并两个有序数组](array-string/array/merge-sorted-array.md)
+  * [移除元素](array-string/array/remove-element.md)
 * [字符串](array-string/string/README.md)
 
 ## 双指针
