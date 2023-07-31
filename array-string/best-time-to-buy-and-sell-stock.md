@@ -13,7 +13,7 @@
 - **时间复杂度:** $$O(n)$$
 - **空间复杂度:** $$O(1)$$
 
-```Go []
+```go
 func maxProfit(prices []int) int {
 	Max,Min := 0,math.MaxInt
 	for _,v := range prices {
@@ -22,12 +22,14 @@ func maxProfit(prices []int) int {
 	}
 	return Max
 }
+
 func min(a, b int) int {
 	if a < b {
 		return a
 	}
 	return b
 }
+
 func max(a, b int) int {
 	if a > b {
 		return a
@@ -40,14 +42,14 @@ func max(a, b int) int {
 > 动态规划
 
 # 解题方法
-> dp[i]代表前i天获取的最大利润，则dp[i]=max(dp[i-1],prices[i]-Min)
+> `dp[i]` 代表前 $$i$$ 天获取的最大利润，则 `dp[i]=max(dp[i-1],prices[i]-min)`
 
 # 复杂度
 
 - **时间复杂度:** $$O(n)$$
 - **空间复杂度:** $$O(n)$$
 
-```Go []
+```go
 func maxProfit(prices []int) int {
     length := len(prices)
     if length == 0 {
@@ -68,6 +70,7 @@ func min(a, b int) int {
     }
     return b
 }
+
 func max(a, b int) int {
     if a > b {
         return a
