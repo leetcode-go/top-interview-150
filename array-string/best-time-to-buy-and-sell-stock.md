@@ -13,7 +13,7 @@
 - **时间复杂度:** $$O(n)$$
 - **空间复杂度:** $$O(1)$$
 
-```Go
+```go
 func maxProfit(prices []int) int {
 	Max,Min := 0,math.MaxInt
 	for _,v := range prices {
@@ -49,7 +49,7 @@ func max(a, b int) int {
 - **时间复杂度:** $$O(n)$$
 - **空间复杂度:** $$O(n)$$
 
-```Go
+```go
 func maxProfit(prices []int) int {
     length := len(prices)
     if length == 0 {
