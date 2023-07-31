@@ -8,8 +8,7 @@
 2. nums1中在数组后预留了足够的空间用于存放nums2，因此在合并数组时可以不考虑将nums2数据写入nums1中时覆盖未处理数据
 3. 此处仅需从后往前逐个对比nums1以及nums2的数据，写入大的数据，并下标减一即可，具体实现如下
 
-````go
-```golang
+```go
 func merge(nums1 []int, m int, nums2 []int, n int)  {
     // 从nums1末尾开始写入
     length:=len(nums1)-1
@@ -32,7 +31,6 @@ func merge(nums1 []int, m int, nums2 []int, n int)  {
     }
 }
 ```
-````
 
 也可以使用一些函数
 
