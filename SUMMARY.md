@@ -7,6 +7,7 @@
 * [数组](array-string/array/README.md)
   * [合并两个有序数组](array-string/array/merge-sorted-array.md)
   * [移除元素](array-string/array/remove-element.md)
+  * [删除有序数组中的重复项](array-string/array/remove-duplicates-from-sorted-array.md)
 * [字符串](array-string/string/README.md)
 
 ## 双指针
