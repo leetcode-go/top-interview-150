@@ -13,6 +13,7 @@
 ## 双指针
 
 * [双指针](double-pointer/README.md)
+  * [验证回文串](double-pointer/valid-palindrome.md)
 
 ## 滑动窗口
 
