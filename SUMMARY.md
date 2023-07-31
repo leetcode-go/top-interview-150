@@ -12,9 +12,8 @@
 
 ## 双指针
 
-* [双指针](double-pointer/README.md)
-  * [验证回文串](double-pointer/valid-palindrome.md)
-  * [判断子序列](double-pointer/is-subsequence.md)
+* [验证回文串](double-pointer/valid-palindrome.md)
+* [判断子序列](double-pointer/is-subsequence.md)
 
 ## 滑动窗口
 
