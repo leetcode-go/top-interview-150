@@ -1,5 +1,6 @@
-# 合并两个有序数组
-[TOC]
+# 买卖股票的最佳时机
+
+题目链接: [https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)
 
 # 思路一
 > 贪心
@@ -8,13 +9,10 @@
 > 获取最左最小值，在每个阶段比较当前值与当前最小值的差值，若是比局部解大即可更新
 
 # 复杂度
-- 时间复杂度:
->  O(n)
 
-- 空间复杂度:
->  O(1)
+- **时间复杂度:** $$O(n)$$
+- **空间复杂度:** $$O(1)$$
 
-# Code
 ```Go []
 func maxProfit(prices []int) int {
 	Max,Min := 0,math.MaxInt
@@ -36,7 +34,6 @@ func max(a, b int) int {
 	}
 	return b
 }
-
 ```
 
 # 思路二
@@ -46,13 +43,10 @@ func max(a, b int) int {
 > dp[i]代表前i天获取的最大利润，则dp[i]=max(dp[i-1],prices[i]-Min)
 
 # 复杂度
-- 时间复杂度:
->  $O(n)$
 
-- 空间复杂度:
->  $O(n)$
+- **时间复杂度:** $$O(n)$$
+- **空间复杂度:** $$O(n)$$
 
-# Code
 ```Go []
 func maxProfit(prices []int) int {
     length := len(prices)
@@ -80,6 +74,4 @@ func max(a, b int) int {
     }
     return b
 }
-
-
 ```
