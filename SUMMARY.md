@@ -2,91 +2,91 @@
 
 * [👋 Welcome!](README.md)
 
-## 数组/字符串
+# 数组-字符串
 
-* [数组](array-string/array/README.md)
-  * [合并两个有序数组](array-string/array/merge-sorted-array.md)
-  * [移除元素](array-string/array/remove-element.md)
-  * [删除有序数组中的重复项](array-string/array/remove-duplicates-from-sorted-array.md)
-* [字符串](array-string/string/README.md)
+* [数组-字符串](array-string)
+  * [合并两个有序数组](array-string/merge-sorted-array.md)
+  * [移除元素](array-string/remove-element.md)
+  * [删除有序数组中的重复项](array-string/remove-duplicates-from-sorted-array.md)
 
-## 双指针
+# 双指针
 
-* [验证回文串](double-pointer/valid-palindrome.md)
-* [判断子序列](double-pointer/is-subsequence.md)
+* [双指针](double-pointer)
+  * [验证回文串](double-pointer/valid-palindrome.md)
+  * [判断子序列](double-pointer/is-subsequence.md)
 
-## 滑动窗口
+# 滑动窗口
 
 * [滑动窗口](sliding-window/README.md)
 
-## 矩阵
+# 矩阵
 
 * [矩阵](matrix/README.md)
 
-## 哈希表
+# 哈希表
 
 * [哈希表](hash-table/README.md)
 
-## 区间
+# 区间
 
 * [区间](section/README.md)
 
-## 栈
+# 栈
 
 * [栈](stack/README.md)
 
-## 链表
+# 链表
 
 * [链表](linked-list/README.md)
 
-## 树
+# 树
 
 * [树](tree/README.md)
 
-## 图
+# 图
 
 * [图](graph/README.md)
 
-## 广度优先搜索
+# 广度优先搜索
 
 * [广度优先搜索](bfs/README.md)
 
-## 深度优先搜索
+# 深度优先搜索
 
 * [深度优先搜索](dfs/README.md)
 
-## 字典树
+# 字典树
 
 * [字典树](trie/README.md)
 
-## 回溯
+# 回溯
 
 * [回溯](backtracking/README.md)
 
-## 分治
+# 分治
 
 * [分治](divide-and-conquer/README.md)
 
-## Kadane 算法
+# Kadane 算法
 
 * [Kadane 算法](kadane/README.md)
 
-## 二分查找
+# 二分查找
 
 * [二分查找](binary-search/README.md)
 
-## 堆
+# 堆
 
 * [堆](heap/README.md)
 
-## 位运算
+# 位运算
 
 * [位运算](bitwise/README.md)
 
-## 数学
+# 数学
 
 * [数学](math/README.md)
 
-## 动态规划
+# 动态规划
 
 * [动态规划](dynamic/README.md)
