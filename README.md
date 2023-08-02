@@ -22,9 +22,15 @@ layout:
 # 👋 Welcome!
 
 {% hint style="info" %}
-注意**:** 所有文章内容仅包含作者个人思路及内容，如有雷同纯属巧合，若有不通的思路，欢迎在github([https://github.com/leetcode-go/top-interview-150](https://github.com/leetcode-go/top-interview-150))上提供相关issue
+**注意**: 所有文章内容仅包含作者个人思路及内容，如有雷同纯属巧合，若有不通的思路，欢迎在github([https://github.com/leetcode-go/top-interview-150](https://github.com/leetcode-go/top-interview-150))上提供相关issue
 {% endhint %}
 
 书本内容仅做学习使用，建议读者阅读前，先按照链接前往\[力扣]\(https://leetcode.cn)进行答题，若无法解答或解答完成可返回查看本文一起思考
 
 书中答案并非全是双百答案，请大家见谅，也欢迎大家群策群力，提供更多更完善的解题思路，欢迎关注我们的github([https://github.com/leetcode-go/top-interview-150](https://github.com/leetcode-go/top-interview-150))。
+
+# 贡献者
+
+- [Shenle Lu](https://github.com/lushenle)
+- [EvansChang](https://github.com/AlpherJang)
+- [Hubery-ye](https://github.com/Hubery-ye)
