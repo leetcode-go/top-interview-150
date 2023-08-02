@@ -1,7 +1,7 @@
 # 轮转数组
 
 
-题目链接: [189. 轮转数组](https://leetcode.cn/problems/rotate-array/description/)
+题目链接: [https://leetcode.cn/problems/rotate-array/](https://leetcode.cn/problems/rotate-array/)
 
 
 # 思路
@@ -25,9 +25,4 @@ func rotate(nums []int, k int) {
         copy(nums, append(nums[length-k:],nums[:length-k+1]...))
     }
 }
-
-
 ```
-
-
-
