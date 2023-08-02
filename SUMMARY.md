@@ -5,6 +5,7 @@
   * [合并两个有序数组](array-string/merge-sorted-array.md)
   * [移除元素](array-string/remove-element.md)
   * [删除有序数组中的重复项](array-string/remove-duplicates-from-sorted-array.md)
+  * [删除有序数组中的重复项II](array-string/remove-duplicates-from-sorted-array-ii.md)
   * [买卖股票的最佳时机](array-string/best-time-to-buy-and-sell-stock.md)
   * [买卖股票的最佳时机II](array-string/best-time-to-buy-and-sell-stock-ii.md)
   * [多数元素](array-string/majority-element.md)

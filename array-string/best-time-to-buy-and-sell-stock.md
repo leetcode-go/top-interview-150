@@ -6,7 +6,7 @@
 > 贪心
 
 # 解题方法
-> 获取最左最小值，在每个阶段比较当前值与当前最小值的差值，若是比局部解大即可更新
+ 获取最左最小值，在每个阶段比较当前值与当前最小值的差值，若是比局部解大即可更新
 
 # 复杂度
 
@@ -15,26 +15,26 @@
 
 ```go
 func maxProfit(prices []int) int {
-	Max,Min := 0,math.MaxInt
-	for _,v := range prices {
-		Max = max(Max,v-Min)
-		Min = min(Min,v)
-	}
-	return Max
+    Max,Min := 0,math.MaxInt
+    for _,v := range prices {
+        Max = max(Max,v-Min)
+        Min = min(Min,v)
+    }
+    return Max
 }
 
 func min(a, b int) int {
-	if a < b {
-		return a
-	}
-	return b
+    if a < b {
+        return a
+    }
+    return b
 }
 
 func max(a, b int) int {
-	if a > b {
-		return a
-	}
-	return b
+    if a > b {
+        return a
+    }
+    return b
 }
 ```
 
