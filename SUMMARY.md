@@ -17,6 +17,7 @@
   * [两数之和](hash-table/two-sum.md)
 * [区间](section/README.md)
 * [栈](stack/README.md)
+  * [有效的括号](stack/is-valid.md)
 * [链表](linked-list/README.md)
 * [树](tree/README.md)
 * [图](graph/README.md)
