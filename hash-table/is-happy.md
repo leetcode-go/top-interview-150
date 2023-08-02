@@ -35,3 +35,21 @@ func next(n int) int {
 
 - **时间复杂度：** 时间复杂度是 $$O(k)$$，其中 $$k$$ 是最终得到 $$1$$ 或者 $$4$$ 的迭代次数。在最坏的情况下，迭代次数是一个循环链，其中每个数字都会被访问一次，因此迭代次数是有限的
 - **空间复杂度：** 空间复杂度是 $$O(1)$$，函数只使用了常数个变量来存储中间结果，没有使用额外的空间
+
+`map` 解法：
+
+```go
+func isHappy(n int) bool {
+	m := make(map[int]bool)
+	
+	for n != 1 {
+		if m[n] {
+			return false
+		}
+		m[n] = true
+		n = next(n)
+	}
+
+	return true
+}
+```
