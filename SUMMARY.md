@@ -11,6 +11,7 @@
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
   * [判断子序列](double-point/is-subsequence.md)
+  * [三数之和](double-point/three-sum.md)
 * [滑动窗口](sliding-window/README.md)
 * [矩阵](matrix/README.md)
 * [哈希表](hash-table/README.md)
