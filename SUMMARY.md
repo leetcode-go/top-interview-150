@@ -32,5 +32,6 @@
 * [二分查找](binary-search/README.md)
 * [堆](heap/README.md)
 * [位运算](bitwise/README.md)
+  * [二进制求和](bitwise/add-binary.md)
 * [数学](math/README.md)
 * [动态规划](dynamic/README.md)
