@@ -14,6 +14,7 @@
 * [滑动窗口](sliding-window/README.md)
 * [矩阵](matrix/README.md)
 * [哈希表](hash-table/README.md)
+  * [两数之和](hash-table/two-sum.md)
 * [区间](section/README.md)
 * [栈](stack/README.md)
 * [链表](linked-list/README.md)
