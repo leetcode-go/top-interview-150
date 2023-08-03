@@ -1,17 +1,14 @@
-# 跳跃游戏
+# 柠檬水找零
 
 
-题目链接: [860. 柠檬水找零](https://leetcode.cn/problems/lemonade-change/description/)
+题目链接: [https://leetcode.cn/problems/lemonade-change](https://leetcode.cn/problems/lemonade-change)
 
 ## 解题思路：
 
 1. 简单模拟，因为没有比20更大的面值，所以20无需用于找零，只需要保存5元和10元的个数即可
 2. 优先使用10元找零，防止后续出现10元无法找零的情况
 
-
-
-```Go []
-
+```go
 func lemonadeChange(bills []int) bool {
     five,ten := 0,0
     for _, v := range bills {
@@ -36,7 +33,6 @@ func lemonadeChange(bills []int) bool {
     }
     return true
 }
-
 ```
 
 ## 复杂度分析
