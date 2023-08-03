@@ -1,6 +1,5 @@
 # 三角形最小路径和
 
-
 题目链接: [https://leetcode.cn/problems/triangle/](https://leetcode.cn/problems/triangle/)
 
 ## 解题思路：
@@ -12,9 +11,7 @@
 5. dp[i][0]和dp[i][i]的位置需要特殊处理
 6. 最终遍历dp[n-1][i]获取路径最小值
 
-# Code
-```Go []
-
+```go
 func minimumTotal(triangle [][]int) int {
     n := len(triangle)
     if n == 0 {
@@ -38,6 +35,7 @@ func minimumTotal(triangle [][]int) int {
     }
     return Min
 }
+
 func min(a, b int) int {
     if a < b {
         return a
@@ -48,5 +46,5 @@ func min(a, b int) int {
 
 ## 复杂度分析
 
-- **时间复杂度：** 时间复杂度是 $$O(n²)$$，其中 $$n$$ 是数组 `triangle` 的长度
-- **空间复杂度：** 空间复杂度是 $$O(n²)$$，我们需要一个边长为n的等腰直角三角形大小的二维数组。
+- **时间复杂度：** 时间复杂度是 $$O(n^2)$$，其中 $$n$$ 是数组 `triangle` 的长度
+- **空间复杂度：** 空间复杂度是 $$O(n^2)$$，我们需要一个边长为n的等腰直角三角形大小的二维数组。
