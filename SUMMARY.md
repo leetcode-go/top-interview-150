@@ -10,6 +10,7 @@
   * [买卖股票的最佳时机II](array-string/best-time-to-buy-and-sell-stock-ii.md)
   * [多数元素](array-string/majority-element.md)
   * [轮转数组](array-string/rotate-array.md)
+  * [跳跃游戏](array-string/jump-game.md)
   * [找出字符串中第一个匹配项的下标](array-string/find-the-index-of-the-first-occurrence-in-a-string.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
