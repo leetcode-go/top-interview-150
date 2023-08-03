@@ -13,6 +13,7 @@
   * [轮转数组](array-string/rotate-array.md)
   * [跳跃游戏](array-string/jump-game.md)
   * [找出字符串中第一个匹配项的下标](array-string/find-the-index-of-the-first-occurrence-in-a-string.md)
+  * [柠檬水找零](array-string/lemonade-change.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
   * [判断子序列](double-point/is-subsequence.md)
