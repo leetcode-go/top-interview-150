@@ -43,5 +43,7 @@
   * [颠倒二进制位](bitwise/reverse-bits.md)
   * [位1的个数](bitwise/number-of-1-bits.md)
   * [只出现一次的数字](bitwise/single-number.md)
+  * [只出现一次的数字 II](bitwise/single-number-ii.md)
+  * [数字范围按位与](bitwise/bitwise-and-of-numbers-range.md)
 * [数学](math/README.md)
 * [动态规划](dynamic/README.md)
