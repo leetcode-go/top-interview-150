@@ -9,6 +9,7 @@
   * [买卖股票的最佳时机](array-string/best-time-to-buy-and-sell-stock.md)
   * [买卖股票的最佳时机II](array-string/best-time-to-buy-and-sell-stock-ii.md)
   * [多数元素](array-string/majority-element.md)
+  * [罗马数字转整数](array-string/roman-to-integer.md)
   * [轮转数组](array-string/rotate-array.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
