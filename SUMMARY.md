@@ -22,6 +22,7 @@
 * [哈希表](hash-table/README.md)
   * [两数之和](hash-table/two-sum.md)
   * [快乐数](hash-table/is-happy.md)
+  * [赎金信](hash-table/ransom-note.md)
 * [区间](section/README.md)
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
