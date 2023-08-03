@@ -43,3 +43,4 @@
   * [只出现一次的数字](bitwise/single-number.md)
 * [数学](math/README.md)
 * [动态规划](dynamic/README.md)
+  * [三角形最小路径和](dynamic/triangle.md)
