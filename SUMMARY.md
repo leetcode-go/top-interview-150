@@ -48,6 +48,8 @@
 * [数学](math/README.md)
   * [回文数](math/palindrome-number.md)
   * [阶乘后的零](math/factorial-trailing-zeroes.md)
+  * [加一](math/plus-one.md)
 * [动态规划](dynamic/README.md)
   * [三角形最小路径和](dynamic/triangle.md)
   * [最小路径和](dynamic/minimum-path-sum.md)
+  * [不同路径 II](dynamic/unique-paths-ii.md)
