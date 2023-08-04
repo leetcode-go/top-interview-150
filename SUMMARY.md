@@ -46,6 +46,7 @@
   * [只出现一次的数字 II](bitwise/single-number-ii.md)
   * [数字范围按位与](bitwise/bitwise-and-of-numbers-range.md)
 * [数学](math/README.md)
+  * [回文数](math/palindrome-number.md)
 * [动态规划](dynamic/README.md)
   * [三角形最小路径和](dynamic/triangle.md)
   * [最小路径和](dynamic/minimum-path-sum.md)
