@@ -26,6 +26,7 @@
   * [快乐数](hash-table/is-happy.md)
   * [同构字符串](hash-table/isomorphic-strings.md)
   * [字母异位词分组](hash-table/group-anagrams.md)
+  * [存在重复元素 II](hash-table/contains-duplicate-ii.md)
 * [区间](section/README.md)
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
