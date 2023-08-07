@@ -12,6 +12,7 @@
   * [罗马数字转整数](array-string/roman-to-integer.md)
   * [轮转数组](array-string/rotate-array.md)
   * [跳跃游戏](array-string/jump-game.md)
+  * [跳跃游戏II](array-string/jump-game-ii.md)
   * [找出字符串中第一个匹配项的下标](array-string/find-the-index-of-the-first-occurrence-in-a-string.md)
   * [柠檬水找零](array-string/lemonade-change.md)
 * [双指针](double-point/README.md)
