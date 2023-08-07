@@ -25,6 +25,7 @@
   * [两数之和](hash-table/two-sum.md)
   * [快乐数](hash-table/is-happy.md)
   * [同构字符串](hash-table/isomorphic-strings.md)
+  * [单词规律](hash-table/word-pattern.md)
   * [有效的字母异位词](hash-table/valid-anagram.md)
   * [字母异位词分组](hash-table/group-anagrams.md)
   * [存在重复元素 II](hash-table/contains-duplicate-ii.md)
