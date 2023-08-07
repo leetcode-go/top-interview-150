@@ -78,3 +78,30 @@ func max(a, b int) int {
     return b
 }
 ```
+
+# 思路三
+
+# 解题方法
+
+双重遍历，遍历计算买个买入日与其他卖出日的获利，并判断是否最大
+> 对于最新的用例中，该解题方法会出现解答超时
+
+# 复杂度
+
+- **时间复杂度:** $$O(1)$$
+- **空间复杂度:** $$O(n^2)$$
+
+```go
+func maxProfit(prices []int) int {
+    max:=0
+    for i:=0;i<len(prices);i++{
+        for j:=i+1;j<len(prices);j++{
+            tmpMax:=prices[j]-prices[i]
+            if tmpMax>max{
+                max=tmpMax
+            }
+        }
+    }
+    return max
+}
+```
