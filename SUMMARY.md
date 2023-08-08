@@ -61,3 +61,4 @@
   * [三角形最小路径和](dynamic/triangle.md)
   * [最小路径和](dynamic/minimum-path-sum.md)
   * [不同路径 II](dynamic/unique-paths-ii.md)
+  * [最长回文子串](dynamic/longest-palindromic-substring.md)
