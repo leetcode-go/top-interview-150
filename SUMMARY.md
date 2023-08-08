@@ -15,6 +15,7 @@
   * [跳跃游戏II](array-string/jump-game-ii.md)
   * [找出字符串中第一个匹配项的下标](array-string/find-the-index-of-the-first-occurrence-in-a-string.md)
   * [柠檬水找零](array-string/lemonade-change.md)
+  * [最长回文子串](array-string/longest-palindromic-substring.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
   * [判断子序列](double-point/is-subsequence.md)
