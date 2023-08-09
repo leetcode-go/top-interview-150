@@ -65,3 +65,4 @@
   * [不同路径 II](dynamic/unique-paths-ii.md)
   * [最长回文子串](dynamic/longest-palindromic-substring.md)
   * [交错字符串](dynamic/interleaving-string.md)
+  * [编辑距离](dynamic/edit-distance.md)
