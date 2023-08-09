@@ -62,6 +62,7 @@
   * [Pow(x, n)](math/powx-n.md)
 * [动态规划](dynamic/README.md)
   * [爬楼梯](dynamic/climbing-stairs.md)
+  * [打家劫舍](dynamic/house-robber.md)
   * [三角形最小路径和](dynamic/triangle.md)
   * [最小路径和](dynamic/minimum-path-sum.md)
   * [不同路径 II](dynamic/unique-paths-ii.md)
