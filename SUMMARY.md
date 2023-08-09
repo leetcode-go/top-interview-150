@@ -61,6 +61,7 @@
   * [x 的平方根](math/sqrtx.md)
   * [Pow(x, n)](math/powx-n.md)
 * [动态规划](dynamic/README.md)
+  * [爬楼梯](dynamic/climbing-stairs.md)
   * [三角形最小路径和](dynamic/triangle.md)
   * [最小路径和](dynamic/minimum-path-sum.md)
   * [不同路径 II](dynamic/unique-paths-ii.md)
