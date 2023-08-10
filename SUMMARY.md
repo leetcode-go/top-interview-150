@@ -64,6 +64,7 @@
   * [爬楼梯](dynamic/climbing-stairs.md)
   * [打家劫舍](dynamic/house-robber.md)
   * [最长递增子序列](dynamic/longest-increasing-subsequence.md)
+  * [零钱兑换](dynamic/coin-change.md)
   * [三角形最小路径和](dynamic/triangle.md)
   * [最小路径和](dynamic/minimum-path-sum.md)
   * [不同路径 II](dynamic/unique-paths-ii.md)
