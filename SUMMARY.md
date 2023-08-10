@@ -63,6 +63,7 @@
 * [动态规划](dynamic/README.md)
   * [爬楼梯](dynamic/climbing-stairs.md)
   * [打家劫舍](dynamic/house-robber.md)
+  * [单词拆分](dynamic/word-break.md)
   * [最长递增子序列](dynamic/longest-increasing-subsequence.md)
   * [零钱兑换](dynamic/coin-change.md)
   * [三角形最小路径和](dynamic/triangle.md)
