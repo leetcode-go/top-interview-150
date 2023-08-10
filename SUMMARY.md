@@ -36,6 +36,7 @@
 * [区间](section/README.md)
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
+  * [简化路径](stack/simplify-path.md)
 * [链表](linked-list/README.md)
 * [树](tree/README.md)
 * [图](graph/README.md)
