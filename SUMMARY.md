@@ -48,6 +48,7 @@
 * [回溯](backtracking/README.md)
 * [分治](divide-and-conquer/README.md)
 * [Kadane 算法](kadane/README.md)
+  *[最大子数组和](kadane/maximum-subarray.md)
 * [二分查找](binary-search/README.md)
 * [堆](heap/README.md)
 * [位运算](bitwise/README.md)
