@@ -63,6 +63,7 @@
   * [加一](math/plus-one.md)
   * [x 的平方根](math/sqrtx.md)
   * [Pow(x, n)](math/powx-n.md)
+  * [直线上最多的点数](math/max-points-on-a-line.md)
 * [动态规划](dynamic/README.md)
   * [爬楼梯](dynamic/climbing-stairs.md)
   * [打家劫舍](dynamic/house-robber.md)
