@@ -40,6 +40,7 @@
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
   * [简化路径](stack/simplify-path.md)
+  * [最小栈](stack/min-stack.md)
 * [链表](linked-list/README.md)
   * [环形链表](linked-list/linked-list-cycle.md)
 * [树](tree/README.md)
