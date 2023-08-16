@@ -18,6 +18,7 @@
   * [最长回文子串](array-string/longest-palindromic-substring.md)
   * [H指数](array-string/h-index.md)
   * [O(1)时间插入、删除和获取随机元素](array-string/insert-delete-getrandom-o1.md)
+  * [除自身以外数组的乘积](array-string/product-of-array-except-self.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
   * [判断子序列](double-point/is-subsequence.md)
