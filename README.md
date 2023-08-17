@@ -21,6 +21,8 @@ layout:
 
 # 👋 Welcome!
 
+## 👋 Welcome!
+
 {% hint style="info" %}
 **注意**: 所有文章内容仅包含作者个人思路及内容，如有雷同纯属巧合，若有不通的思路，欢迎在github([https://github.com/leetcode-go/top-interview-150](https://github.com/leetcode-go/top-interview-150))上提供相关issue
 {% endhint %}
@@ -29,8 +31,10 @@ layout:
 
 书中答案并非全是双百答案，请大家见谅，也欢迎大家群策群力，提供更多更完善的解题思路，欢迎关注我们的github([https://github.com/leetcode-go/top-interview-150](https://github.com/leetcode-go/top-interview-150))。
 
-# 贡献者
+## 贡献者
 
-- [Shenle Lu](https://github.com/lushenle)
-- [EvansChang](https://github.com/AlpherJang)
-- [Hubery-ye](https://github.com/Hubery-ye)
+* [Shenle Lu](https://github.com/lushenle)(lushenle@gmail.com)
+* [EvansChang](https://github.com/AlpherJang)(alphejangs@gmail.com)
+* [Hubery-ye](https://github.com/Hubery-ye)
+
+如果有base北京或者成都的Golang研发岗位，也欢迎联系我们，我们可以自荐，也可以推荐我们周边的朋友😀
