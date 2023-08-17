@@ -42,6 +42,7 @@
   * [有效的括号](stack/is-valid.md)
   * [简化路径](stack/simplify-path.md)
   * [最小栈](stack/min-stack.md)
+  * [基本计算器](stack/basic-calculator.md)
 * [链表](linked-list/README.md)
   * [环形链表](linked-list/linked-list-cycle.md)
   * [两数相加](linked-list/add-tow-numbers.md)
