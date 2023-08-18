@@ -49,6 +49,7 @@
   * [环形链表](linked-list/linked-list-cycle.md)
   * [两数相加](linked-list/liang-shu-xiang-jia.md)
 * [树](tree/README.md)
+  * [二叉树的最大深度](tree/maximum-depth-of-binary-tree.md)
 * [图](graph/README.md)
 * [广度优先搜索](bfs/README.md)
 * [深度优先搜索](dfs/README.md)
