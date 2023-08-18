@@ -1,8 +1,7 @@
 ---
 description: 本书内容包含力扣面试150题的解答及相关解题思路
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
+cover: .gitbook/assets/WechatIMG420.jpg
+coverY: 38.61333333333333
 layout:
   cover:
     visible: true
