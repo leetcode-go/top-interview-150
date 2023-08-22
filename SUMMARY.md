@@ -21,6 +21,7 @@
   * [除自身以外数组的乘积](array-string/product-of-array-except-self.md)
   * [加油站](array-string/gas-station.md)
   * [分发糖果](array-string/candy.md)
+  * [最后一个单词的长度](array-string/length-of-last-word.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
   * [判断子序列](double-point/is-subsequence.md)
