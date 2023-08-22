@@ -51,6 +51,7 @@
   * [两数相加](linked-list/liang-shu-xiang-jia.md)
   * [合并两个有序链表](linked-list/merge-two-sorted-lists.md)
   * [复制带随机指针的链表](linked-list/copy-list-with-random-pointer.md)
+  * [反转链表 II](linked-list/reverse-linked-list-ii.md)
 * [树](tree/README.md)
   * [二叉树的最大深度](tree/maximum-depth-of-binary-tree.md)
 * [图](graph/README.md)
