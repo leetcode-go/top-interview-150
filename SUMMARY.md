@@ -31,6 +31,7 @@
   * [三数之和](double-point/three-sum.md)
   * [盛最多水的容器](double-point/container-with-most-water.md)
 * [滑动窗口](sliding-window/README.md)
+  * [长度最小的子数组](sliding-window/minimum-size-subarray-sum.md)
 * [矩阵](matrix/README.md)
 * [哈希表](hash-table/README.md)
   * [赎金信](hash-table/ransom-note.md)
