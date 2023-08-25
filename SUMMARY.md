@@ -43,6 +43,7 @@
   * [存在重复元素 II](hash-table/contains-duplicate-ii.md)
   * [最长连续序列](hash-table/longest-consecutive-sequence.md)
 * [区间](section/README.md)
+  * [汇总区间](section/summary-ranges.md)
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
   * [简化路径](stack/simplify-path.md)
