@@ -22,6 +22,7 @@
   * [加油站](array-string/gas-station.md)
   * [分发糖果](array-string/candy.md)
   * [最后一个单词的长度](array-string/length-of-last-word.md)
+  * [整数转罗马数字](array-string/integer-to-roman.md)
   * [最长公共前缀](array-string/longest-common-prefix.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
