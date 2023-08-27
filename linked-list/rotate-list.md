@@ -9,7 +9,6 @@
 3. 从length-k的位置开始截取length长度的数组
 4. 对k-1位置及数组末尾的Next进行修正
 
-
 ```go
 /**
  * Definition for singly-linked list.
@@ -29,11 +28,10 @@ func rotateRight(head *ListNode, k int) *ListNode {
 	}
 	length := len(listHead)
 	k = k % length
-    if k==0{
-        return head
-    }
-	listHead = append(listHead, listHead...)
-	listHead = listHead[length-k : length*2-k]
+    	if k == 0 {
+		return head
+	}
+	listHead = append(listHead[length-k:], listHead[:length-k+1]...)
 	listHead[k-1].Next = listHead[k]
 	listHead[length-1].Next = nil
 	return listHead[0]
@@ -42,15 +40,13 @@ func rotateRight(head *ListNode, k int) *ListNode {
 
 ## 复杂度分析一
 
-- **时间复杂度：** 只遍历了一遍链表，因此时间复杂度为 $$O(n)$$，其中 $$n$$ 是链表的长度
-- **空间复杂度：** 空间复杂度为 $$O(2n)$$
-
+* **时间复杂度：** 只遍历了一遍链表，因此时间复杂度为 $$O(n)$$，其中 $$n$$ 是链表的长度
+* **空间复杂度：** 空间复杂度为 $$O(2n)$$
 
 ## 解题思路二
 
 1. 将链表头尾相连，组成环形链表
 2. 找到第length-k个节点，新的链表的head为该节点的Next，将该节点Next修正为nil
-
 
 ```go
 /**
@@ -84,5 +80,5 @@ func rotateRight(head *ListNode, k int) *ListNode {
 
 ## 复杂度分析二
 
-- **时间复杂度：** 只遍历了一遍链表，因此时间复杂度为 $$O(n)$$，其中 $$n$$ 是链表的长度
-- **空间复杂度：** 空间复杂度为 $$O(2n)$$
+* **时间复杂度：** 只遍历了一遍链表，因此时间复杂度为 $$O(n)$$，其中 $$n$$ 是链表的长度
+* **空间复杂度：** 空间复杂度为 $$O(2n)$$
