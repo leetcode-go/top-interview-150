@@ -64,6 +64,7 @@
 * [树](tree/README.md)
   * [二叉树的最大深度](tree/maximum-depth-of-binary-tree.md)
   * [相同的树](tree/same-tree.md)
+  * [对称二叉树](tree/symmetric-tree.md)
   * [从前序和中序遍历序列构造二叉树](tree/construct-binary-tree-from-preorder-and-inorder-traversal.md)
 * [图](graph/README.md)
 * [广度优先搜索](bfs/README.md)
