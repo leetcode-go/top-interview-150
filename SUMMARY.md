@@ -25,6 +25,7 @@
   * [整数转罗马数字](array-string/integer-to-roman.md)
   * [最长公共前缀](array-string/longest-common-prefix.md)
   * [反转字符串重的单词](array-string/reverse-words-in-a-string.md)
+  * [N字形变换](array-string/zigzag-conversion.md)
 * [双指针](double-point/README.md)
   * [验证回文串](double-point/valid-palindrome.md)
   * [判断子序列](double-point/is-subsequence.md)
