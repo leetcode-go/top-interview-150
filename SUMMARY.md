@@ -64,6 +64,7 @@
   * [删除链表的倒数第 N 个结点](linked-list/remove-nth-node-from-end-of-list.md)
   * [删除排序链表中的重复元素](linked-list/remove-duplicates-from-sorted-list.md)
   * [旋转链表](linked-list/rotate-list.md)
+  * [分隔链表](linked-list/partition-list.md)
 * [树](tree/README.md)
   * [二叉树的最大深度](tree/maximum-depth-of-binary-tree.md)
   * [相同的树](tree/same-tree.md)
