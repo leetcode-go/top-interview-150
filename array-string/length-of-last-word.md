@@ -29,6 +29,15 @@ func lengthOfLastWord(s string) int {
 }
 ```
 
+也可以直接使用内置函数
+
+```go
+func lengthOfLastWord(s string) int {
+	arr := strings.Fields(s)
+	return len(arr[len(arr) - 1])
+	}
+```
+
 ## 复杂度分析
 
 - **时间复杂度：** 只遍历了一遍数组 $$s$$，因此时间复杂度为 $$O(n)$$
