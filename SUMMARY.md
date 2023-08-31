@@ -71,6 +71,7 @@
   * [相同的树](tree/same-tree.md)
   * [翻转二叉树](tree/invert-binary-tree.md)
   * [对称二叉树](tree/symmetric-tree.md)
+  * [填充每个节点的下一个右侧节点指针](tree/populating-next-right-pointers-in-each-node.md)
   * [二叉树展开为链表](tree/flatten-binary-tree-to-linked-list.md)
   * [从前序和中序遍历序列构造二叉树](tree/construct-binary-tree-from-preorder-and-inorder-traversal.md)
 * [图](graph/README.md)
