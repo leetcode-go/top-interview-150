@@ -67,6 +67,7 @@
   * [旋转链表](linked-list/rotate-list.md)
   * [分隔链表](linked-list/partition-list.md)
   * [LRU 缓存](linked-list/lru-cache.md)
+  * [K个一组翻转链表](linked-list/reverse-nodes-in-k-group.md)
 * [树](tree/README.md)
   * [二叉树的最大深度](tree/maximum-depth-of-binary-tree.md)
   * [相同的树](tree/same-tree.md)
