@@ -30,6 +30,16 @@ layout:
 
 书中答案并非全是双百答案，请大家见谅，也欢迎大家群策群力，提供更多更完善的解题思路，欢迎关注我们的github([https://github.com/leetcode-go/top-interview-150](https://github.com/leetcode-go/top-interview-150))。
 
+## 已完成专题列表
+
+1. [双指针](double-point/)
+2. [哈希表](hash-table/)
+3. [栈](stack/)
+4. [链表](linked-list/)
+5. [Kadane算法](kadane/)
+6. [位运算](bitwise/)
+7. [数学](math/)
+
 ## 贡献者
 
 * [Shenle Lu](https://github.com/lushenle)(lushenle@gmail.com)
