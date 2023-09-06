@@ -36,6 +36,7 @@
   * [长度最小的子数组](sliding-window/minimum-size-subarray-sum.md)
   * [无重复字符的最长子串](sliding-window/longest-substring-without-repeating-characters.md)
   * [串联所有单词的子串](sliding-window/substring-with-concatenation-of-all-words.md)
+  * [最小覆盖子串](sliding-window/minimum-window-substring.md)
 * [矩阵](matrix/README.md)
 * [哈希表](hash-table/README.md)
   * [赎金信](hash-table/ransom-note.md)
