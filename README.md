@@ -32,13 +32,14 @@ layout:
 
 ## 已完成专题列表
 
-1. [双指针](double-point/)
-2. [哈希表](hash-table/)
-3. [栈](stack/)
-4. [链表](linked-list/)
-5. [Kadane算法](kadane/)
-6. [位运算](bitwise/)
-7. [数学](math/)
+1. [数组-字符串](array-string/)
+2. [双指针](double-point/)
+3. [哈希表](hash-table/)
+4. [栈](stack/)
+5. [链表](linked-list/)
+6. [Kadane算法](kadane/)
+7. [位运算](bitwise/)
+8. [数学](math/)
 
 ## 贡献者
 
