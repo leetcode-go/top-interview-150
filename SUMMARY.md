@@ -52,6 +52,7 @@
 * [区间](section/README.md)
   * [汇总区间](section/summary-ranges.md)
   * [合并区间](section/merge-intervals.md)
+  * [插入区间](section/insert-interval.md)
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
   * [简化路径](stack/simplify-path.md)
