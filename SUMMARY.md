@@ -53,6 +53,7 @@
   * [汇总区间](section/summary-ranges.md)
   * [合并区间](section/merge-intervals.md)
   * [插入区间](section/insert-interval.md)
+  * [用最少数量的箭箭引爆气球](section/minimum-number-of-arrows-to-burst-balloons.md)
 * [栈](stack/README.md)
   * [有效的括号](stack/is-valid.md)
   * [简化路径](stack/simplify-path.md)
