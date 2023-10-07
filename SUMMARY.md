@@ -81,6 +81,7 @@
   * [二叉树展开为链表](tree/flatten-binary-tree-to-linked-list.md)
   * [从前序和中序遍历序列构造二叉树](tree/construct-binary-tree-from-preorder-and-inorder-traversal.md)
   * [求根节点到叶节点数字之和](tree/sum-root-to-leaf-numbers.md)
+  * [二叉树中最大路径和](tree/binary-tree-maximum-path-sum.md)
   * [二叉搜索树迭代器](tree/binary-search-tree-iterator.md)
   * [完全二叉树的节点个数](tree/count-complete-tree-nodes.md)
 * [图](graph/README.md)
