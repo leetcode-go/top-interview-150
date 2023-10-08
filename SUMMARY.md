@@ -84,6 +84,7 @@
   * [二叉树中最大路径和](tree/binary-tree-maximum-path-sum.md)
   * [二叉搜索树迭代器](tree/binary-search-tree-iterator.md)
   * [完全二叉树的节点个数](tree/count-complete-tree-nodes.md)
+  * [二叉树的最近公共祖先](tree/lowest-common-ancestor-of-a-binary-tree.md)
 * [图](graph/README.md)
 * [广度优先搜索](bfs/README.md)
 * [深度优先搜索](dfs/README.md)
