@@ -86,6 +86,7 @@
   * [完全二叉树的节点个数](tree/count-complete-tree-nodes.md)
   * [二叉树的最近公共祖先](tree/lowest-common-ancestor-of-a-binary-tree.md)
   * [二叉树的右视图](tree/binary-tree-right-side-view.md)
+  * [二叉树的层平均值](tree/average-of-levels-in-binary-tree.md)
 * [图](graph/README.md)
 * [广度优先搜索](bfs/README.md)
 * [深度优先搜索](dfs/README.md)
