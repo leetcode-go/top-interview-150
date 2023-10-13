@@ -90,6 +90,7 @@
   * [二叉树的层序遍历](tree/binary-tree-level-order-traversal.md)
   * [二叉树的锯齿形层序遍历](tree/binary-tree-zigzag-level-order-traversal.md)
   * [二叉搜索树的最小绝对差](tree/minimum-absolute-difference-in-bst.md)
+  * [二叉搜索树中第K小的元素](tree/kth-smallest-element-in-a-bst.md)
 * [图](graph/README.md)
 * [广度优先搜索](bfs/README.md)
 * [深度优先搜索](dfs/README.md)
