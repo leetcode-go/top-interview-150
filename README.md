@@ -41,6 +41,7 @@ layout:
 7. [位运算](bitwise/)
 8. [数学](math/)
 9. [区间](section/)
+10. [二叉树](tree/)
 
 ## 贡献者
 
