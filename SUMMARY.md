@@ -106,6 +106,7 @@
   * [最大子数组和](kadane/maximum-subarray.md)
 * [二分查找](binary-search/README.md)
   * [搜索插入位置](binary-search/search-insert-position.md)
+  * [寻找峰值](binary-search/find-peak-element.md)
 * [堆](heap/README.md)
 * [位运算](bitwise/README.md)
   * [二进制求和](bitwise/add-binary.md)
