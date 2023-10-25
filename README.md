@@ -42,6 +42,7 @@ layout:
 8. [数学](math/)
 9. [区间](section/)
 10. [二叉树](tree/)
+11. [图](graph/)
 
 ## 贡献者
 
