@@ -101,6 +101,7 @@
   * [课程表 II](graph/course-schedule-ii.md)
 * [广度优先搜索](bfs/README.md)
   * [蛇梯棋](bfs/snakes-and-ladders.md)
+  * [最小基因变化](bfs/minimum-genetic-mutation.md)
 * [深度优先搜索](dfs/README.md)
 * [字典树](trie/README.md)
 * [回溯](backtracking/README.md)
