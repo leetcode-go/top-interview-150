@@ -39,6 +39,7 @@
   * [串联所有单词的子串](sliding-window/substring-with-concatenation-of-all-words.md)
   * [最小覆盖子串](sliding-window/minimum-window-substring.md)
 * [矩阵](matrix/README.md)
+  * [有效的数独](matrix/valid-sudoku.md)
 * [哈希表](hash-table/README.md)
   * [赎金信](hash-table/ransom-note.md)
   * [两数之和](hash-table/two-sum.md)
