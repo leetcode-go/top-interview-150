@@ -43,6 +43,7 @@
   * [螺旋矩阵](matrix/spiral-matrix.md)
   * [旋转矩阵](matrix/rotate-image.md)
   * [矩阵置零](matrix/set-matrix-zeroes.md)
+  * [生命游戏](matrix/game-of-life.md)
 * [哈希表](hash-table/README.md)
   * [赎金信](hash-table/ransom-note.md)
   * [两数之和](hash-table/two-sum.md)
