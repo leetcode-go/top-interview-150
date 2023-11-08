@@ -110,6 +110,7 @@
 * [深度优先搜索](dfs/README.md)
 * [字典树](trie/README.md)
   * [实现 Trie (前缀树)](trie/implement-trie-prefix-tree.md)
+  * [添加与搜索单词 - 数据结构设计](trie/add-and-search-word-data-structure-design.md)
 * [回溯](backtracking/README.md)
 * [分治](divide-and-conquer/README.md)
   * [将有序数组转换为二叉搜索树](divide-and-conquer/convert-sorted-array-to-binary-search-tree.md)
