@@ -43,6 +43,7 @@ layout:
 9. [区间](section/)
 10. [二叉树](tree/)
 11. [图](graph/)
+12. [矩阵](matrix/)
 
 ## 贡献者
 
