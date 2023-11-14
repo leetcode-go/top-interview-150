@@ -113,6 +113,7 @@
   * [添加与搜索单词 - 数据结构设计](trie/add-and-search-word-data-structure-design.md)
   * [单词搜索 II](trie/word-search-ii.md)
 * [回溯](backtracking/README.md)
+  * [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.md)
 * [分治](divide-and-conquer/README.md)
   * [将有序数组转换为二叉搜索树](divide-and-conquer/convert-sorted-array-to-binary-search-tree.md)
 * [Kadane 算法](kadane/README.md)
