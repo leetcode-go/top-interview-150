@@ -118,6 +118,7 @@
   * [全排列](backtracking/permutations.md)
 * [分治](divide-and-conquer/README.md)
   * [将有序数组转换为二叉搜索树](divide-and-conquer/convert-sorted-array-to-binary-search-tree.md)
+  * [排序链表](divide-and-conquer/sort-list.md)
 * [Kadane 算法](kadane/README.md)
   * [环形子数组的最大和](kadane/maximum-sum-circular-subarray.md)
   * [最大子数组和](kadane/maximum-subarray.md)
