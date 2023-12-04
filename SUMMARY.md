@@ -116,6 +116,7 @@
   * [电话号码的字母组合](backtracking/letter-combinations-of-a-phone-number.md)
   * [组合](backtracking/combinations.md)
   * [全排列](backtracking/permutations.md)
+  * [组合总和](backtracking/combination-sum.md)
 * [分治](divide-and-conquer/README.md)
   * [将有序数组转换为二叉搜索树](divide-and-conquer/convert-sorted-array-to-binary-search-tree.md)
   * [排序链表](divide-and-conquer/sort-list.md)
