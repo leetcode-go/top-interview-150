@@ -118,6 +118,7 @@
   * [全排列](backtracking/permutations.md)
   * [组合总和](backtracking/combination-sum.md)
   * [括号生成](backtracking/generate-parentheses.md)
+  * [n皇后问题II](backtracking/n-queens-ii.md)
   * [单词搜索](backtracking/word-search.md)
 * [分治](divide-and-conquer/README.md)
   * [将有序数组转换为二叉搜索树](divide-and-conquer/convert-sorted-array-to-binary-search-tree.md)
