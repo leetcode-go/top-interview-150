@@ -107,6 +107,7 @@
 * [广度优先搜索](bfs/README.md)
   * [蛇梯棋](bfs/snakes-and-ladders.md)
   * [最小基因变化](bfs/minimum-genetic-mutation.md)
+  * [单词接龙](bfs/word-ladder.md)
 * [深度优先搜索](dfs/README.md)
 * [字典树](trie/README.md)
   * [实现 Trie (前缀树)](trie/implement-trie-prefix-tree.md)
