@@ -44,7 +44,9 @@ layout:
 10. [二叉树](tree/)
 11. [图](graph/)
 12. [矩阵](matrix/)
-13. [前缀树](trie/)
+13. [字典树](trie/)
+14. [回溯](backtracking/)
+15. [广度优先搜索](bfs/)
 
 ## 贡献者
 
