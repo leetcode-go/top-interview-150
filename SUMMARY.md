@@ -130,6 +130,7 @@
 * [二分查找](binary-search/README.md)
   * [搜索插入位置](binary-search/search-insert-position.md)
   * [寻找峰值](binary-search/find-peak-element.md)
+  * [搜索二维矩阵](binary-search/search-a-2d-matrix.md)
 * [堆](heap/README.md)
 * [位运算](bitwise/README.md)
   * [二进制求和](bitwise/add-binary.md)
